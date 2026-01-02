@@ -1,16 +1,27 @@
-# govipola
+# GoviPola 🌱
 
-A new Flutter project.
+GoviPola is a Flutter-based mobile application designed to directly connect farmers and buyers through a simple and user-friendly digital platform.
 
-## Getting Started
+## 🚜 Features
+- Farmer & Buyer Login / Sign Up
+- Farmers can post products with price, quantity, and location
+- Buyers can browse products and find nearby farmers
+- Map-based navigation to farmer locations
+- In-app chat for direct communication and negotiation
+- Clean and responsive UI
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter & Dart
+- Firebase Authentication
+- Cloud Database / SQLite
+- Google Maps Integration
+- UI/UX Design Principles
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Purpose
+This project was developed as an academic and portfolio project to demonstrate mobile app development skills and real-world problem-solving in the agricultural sector.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Author
+**Pasindu Sanjula**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📜 License
+This project is licensed under the MIT License.
